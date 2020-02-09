@@ -1,0 +1,16 @@
+{
+  "name": "meredith-code-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Richard Chen's answer to Meredith Corporation Code Challenge",
+  "main": "answer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Chen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}

@@ -1,0 +1,359 @@
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/firststep/?auth=dT/ppozhl094XvDwxUArVcXgovsHNvHe6Of/Y5ioLcw%3D',
+  operations_remaining: true
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=8kImP%2FaKfp5lLZ15OnV1HtvsOExx8aUKJC3yJrJCquuunxUft5A6%2BU%2B1LIVp4KBsNeb%2BbdZHwwj6KabL%2FWhb%2FA%3D%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [ 0, 1, 1, 2, 3 ],
+  operations_remaining: 18
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/5/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=8kImP%2FaKfp5lLZ15OnV1HtvsOExx8aUKJC3yJrJCquuunxUft5A6%2BU%2B1LIVp4KBsNeb%2BbdZHwwj6KabL%2FWhb%2FA%3D%3D',
+  operations_remaining: 18,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=8kImP%2FaKfp5lLZ15OnV1HtvsOExx8aUKJC3yJrJCquuunxUft5A6%2BU%2B1LIVp4KBsNeb%2BbdZHwwj6KabL%2FWhb%2FA%3D%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [ 0, 1, 1, 2, 3 ],
+    operations_remaining: 18
+  },
+  answer: 5
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=QFYJJcDCf1EWg0qI25faRrX%2F5KnTrBUyL9k2DI1GFQJdVecxQ9EdI5KHYRrJZjUrKCYiWsK%2BDV7HpMqi9phPR%2BLFxzwEYZZCWMTYtdGVfs0az3zvNAw0S8B%2BzD7kjjvQ04hoArU4LF3%2FOzDqOHF0jw%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:31 -0500', '17 days' ],
+  operations_remaining: 17
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1580380411/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=QFYJJcDCf1EWg0qI25faRrX%2F5KnTrBUyL9k2DI1GFQJdVecxQ9EdI5KHYRrJZjUrKCYiWsK%2BDV7HpMqi9phPR%2BLFxzwEYZZCWMTYtdGVfs0az3zvNAw0S8B%2BzD7kjjvQ04hoArU4LF3%2FOzDqOHF0jw%3D%3D',
+  operations_remaining: 17,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=QFYJJcDCf1EWg0qI25faRrX%2F5KnTrBUyL9k2DI1GFQJdVecxQ9EdI5KHYRrJZjUrKCYiWsK%2BDV7HpMqi9phPR%2BLFxzwEYZZCWMTYtdGVfs0az3zvNAw0S8B%2BzD7kjjvQ04hoArU4LF3%2FOzDqOHF0jw%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:31 -0500', '17 days' ],
+    operations_remaining: 17
+  },
+  answer: 1580380411
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oq8P5GZG3p1wYKKsr6jt3qSFWOBO3e7EwDbtBBiN%2BI9ct1lHiKJ9RIfPt0%2B9RUgV2eMynxSO7kWW0gkBjsjz81Jc%2F23Hvb3rw%2BnVCx2ieSI%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [
+        0,      1,     1,     2,     3,
+        5,      8,    13,    21,    34,
+       55,     89,   144,   233,   377,
+      610,    987,  1597,  2584,  4181,
+     6765,  10946, 17711, 28657, 46368,
+    75025, 121393
+  ],
+  operations_remaining: 16
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/196418/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oq8P5GZG3p1wYKKsr6jt3qSFWOBO3e7EwDbtBBiN%2BI9ct1lHiKJ9RIfPt0%2B9RUgV2eMynxSO7kWW0gkBjsjz81Jc%2F23Hvb3rw%2BnVCx2ieSI%3D',
+  operations_remaining: 16,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oq8P5GZG3p1wYKKsr6jt3qSFWOBO3e7EwDbtBBiN%2BI9ct1lHiKJ9RIfPt0%2B9RUgV2eMynxSO7kWW0gkBjsjz81Jc%2F23Hvb3rw%2BnVCx2ieSI%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [
+          0,      1,     1,     2,     3,
+          5,      8,    13,    21,    34,
+         55,     89,   144,   233,   377,
+        610,    987,  1597,  2584,  4181,
+       6765,  10946, 17711, 28657, 46368,
+      75025, 121393
+    ],
+    operations_remaining: 16
+  },
+  answer: 196418
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=16Gr0L1%2BXLXzF%2F6Tf%2F4LLvv1GApIoDa4WeD7MhpQHpEn9mVV%2ByJX5dM6j7g7UGw0Kt7b8p9%2Fh1%2BUebRXl7ijgg%3D%3D',
+  operation: 'addition',
+  arguments: [
+    -16, -59,  45, -8, 32,
+    -60,  42, -45, 79, 35,
+     94
+  ],
+  operations_remaining: 15
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/139/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=16Gr0L1%2BXLXzF%2F6Tf%2F4LLvv1GApIoDa4WeD7MhpQHpEn9mVV%2ByJX5dM6j7g7UGw0Kt7b8p9%2Fh1%2BUebRXl7ijgg%3D%3D',
+  operations_remaining: 15,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=16Gr0L1%2BXLXzF%2F6Tf%2F4LLvv1GApIoDa4WeD7MhpQHpEn9mVV%2ByJX5dM6j7g7UGw0Kt7b8p9%2Fh1%2BUebRXl7ijgg%3D%3D',
+    operation: 'addition',
+    arguments: [
+      -16, -59,  45, -8, 32,
+      -60,  42, -45, 79, 35,
+       94
+    ],
+    operations_remaining: 15
+  },
+  answer: 139
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=DQdJUAFx2H6m2px4q4nZjDxJKByfzFfkYZBPkpm%2FUkgslVvSptTA431%2BCjOgh0eKo3C9wwWD7OwKfwTM7HR1TWsHA6xzliRw3h85Adzy9%2Fgqg23pcLf4h3dnlVgG2D9fnvSTytBmUlRKsI9Pw1BSRA%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '10 minutes' ],
+  operations_remaining: 14
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1578912212/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=DQdJUAFx2H6m2px4q4nZjDxJKByfzFfkYZBPkpm%2FUkgslVvSptTA431%2BCjOgh0eKo3C9wwWD7OwKfwTM7HR1TWsHA6xzliRw3h85Adzy9%2Fgqg23pcLf4h3dnlVgG2D9fnvSTytBmUlRKsI9Pw1BSRA%3D%3D',
+  operations_remaining: 14,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=DQdJUAFx2H6m2px4q4nZjDxJKByfzFfkYZBPkpm%2FUkgslVvSptTA431%2BCjOgh0eKo3C9wwWD7OwKfwTM7HR1TWsHA6xzliRw3h85Adzy9%2Fgqg23pcLf4h3dnlVgG2D9fnvSTytBmUlRKsI9Pw1BSRA%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '10 minutes' ],
+    operations_remaining: 14
+  },
+  answer: 1578912212
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oYbg8qJImZ8g2BgTFV2PCaOonhxydRjvBElc5M%2BVlNGTMFkMHXKeXx6X2koLsL84YQJEX1fGOaZJyTjFEXzkBc40TIfK%2BGYHEJNcRpHWQ54%3D',
+  operation: 'multiplication',
+  arguments: [ 57, -37 ],
+  operations_remaining: 13
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/-2109/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oYbg8qJImZ8g2BgTFV2PCaOonhxydRjvBElc5M%2BVlNGTMFkMHXKeXx6X2koLsL84YQJEX1fGOaZJyTjFEXzkBc40TIfK%2BGYHEJNcRpHWQ54%3D',
+  operations_remaining: 13,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=oYbg8qJImZ8g2BgTFV2PCaOonhxydRjvBElc5M%2BVlNGTMFkMHXKeXx6X2koLsL84YQJEX1fGOaZJyTjFEXzkBc40TIfK%2BGYHEJNcRpHWQ54%3D',
+    operation: 'multiplication',
+    arguments: [ 57, -37 ],
+    operations_remaining: 13
+  },
+  answer: -2109
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=5x%2BlLEjvVv2TKfSQg6I20EI1aw59PRSQ8QRZ1ULyjPeb0etsTKxrtcVLLvaTDQb9i%2F0n3J3XcGP2o9Fy91H8cglv6du2GKANqTCsjccyvjcRyMI%2Feaq%2F9ItotzNBUijX4NBZUWIlvdY8TFhKxkOjLA%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '11 days' ],
+  operations_remaining: 12
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1579862012/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=5x%2BlLEjvVv2TKfSQg6I20EI1aw59PRSQ8QRZ1ULyjPeb0etsTKxrtcVLLvaTDQb9i%2F0n3J3XcGP2o9Fy91H8cglv6du2GKANqTCsjccyvjcRyMI%2Feaq%2F9ItotzNBUijX4NBZUWIlvdY8TFhKxkOjLA%3D%3D',
+  operations_remaining: 12,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=5x%2BlLEjvVv2TKfSQg6I20EI1aw59PRSQ8QRZ1ULyjPeb0etsTKxrtcVLLvaTDQb9i%2F0n3J3XcGP2o9Fy91H8cglv6du2GKANqTCsjccyvjcRyMI%2Feaq%2F9ItotzNBUijX4NBZUWIlvdY8TFhKxkOjLA%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '11 days' ],
+    operations_remaining: 12
+  },
+  answer: 1579862012
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=byjfxu0w5AIN62k5Dn1hEYeimE45zF0a1Ji6Evq2a2s7FsQ1SMlW56uYg0CmewVKkBQFgUAfCo9Jjn9Ki6%2Fs2y3Sni5t9DvpIEdZ%2FUUMaDs%3D',
+  operation: 'multiplication',
+  arguments: [ 639, -63 ],
+  operations_remaining: 11
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/-40257/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=byjfxu0w5AIN62k5Dn1hEYeimE45zF0a1Ji6Evq2a2s7FsQ1SMlW56uYg0CmewVKkBQFgUAfCo9Jjn9Ki6%2Fs2y3Sni5t9DvpIEdZ%2FUUMaDs%3D',
+  operations_remaining: 11,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=byjfxu0w5AIN62k5Dn1hEYeimE45zF0a1Ji6Evq2a2s7FsQ1SMlW56uYg0CmewVKkBQFgUAfCo9Jjn9Ki6%2Fs2y3Sni5t9DvpIEdZ%2FUUMaDs%3D',
+    operation: 'multiplication',
+    arguments: [ 639, -63 ],
+    operations_remaining: 11
+  },
+  answer: -40257
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=j3Qw5O4WlYGSKvLK%2FvzhoqsbRXbaPC9v0smizsVCVfnllKHQxfhAfUzzbKxaVJkRR1EJ3euG1Nkp47Ome8sKNw%3D%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [
+      0,   1,   1,  2,  3,  5,
+      8,  13,  21, 34, 55, 89,
+    144, 233, 377
+  ],
+  operations_remaining: 10
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/610/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=j3Qw5O4WlYGSKvLK%2FvzhoqsbRXbaPC9v0smizsVCVfnllKHQxfhAfUzzbKxaVJkRR1EJ3euG1Nkp47Ome8sKNw%3D%3D',
+  operations_remaining: 10,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=j3Qw5O4WlYGSKvLK%2FvzhoqsbRXbaPC9v0smizsVCVfnllKHQxfhAfUzzbKxaVJkRR1EJ3euG1Nkp47Ome8sKNw%3D%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [
+        0,   1,   1,  2,  3,  5,
+        8,  13,  21, 34, 55, 89,
+      144, 233, 377
+    ],
+    operations_remaining: 10
+  },
+  answer: 610
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=LKFcrhApABsDcDZTVPHPKzYhGNBybLeKd2YQ0GlxkPhDikKXkkgPeuN7MQVDRGCY0mEp4rJerijzv3rWb9RDbg%3D%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [
+    0, 1, 1,  2,
+    3, 5, 8, 13
+  ],
+  operations_remaining: 9
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/21/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=LKFcrhApABsDcDZTVPHPKzYhGNBybLeKd2YQ0GlxkPhDikKXkkgPeuN7MQVDRGCY0mEp4rJerijzv3rWb9RDbg%3D%3D',
+  operations_remaining: 9,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=LKFcrhApABsDcDZTVPHPKzYhGNBybLeKd2YQ0GlxkPhDikKXkkgPeuN7MQVDRGCY0mEp4rJerijzv3rWb9RDbg%3D%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [
+      0, 1, 1,  2,
+      3, 5, 8, 13
+    ],
+    operations_remaining: 9
+  },
+  answer: 21
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=yI7JhVE4KJ73%2BYQ%2F0s2Q7rX58%2BJxYIXe2jqv2Nft3my0e28%2FXIN28VZh2V4Cz76kWhP5pTF7mj%2F%2BjFfXs4mQAleRcufEJfl%2FNvx%2B85TCPLwTM1AyXjNBCJ0nWiErufevGy6N8OBQLeZ0cbsqUxmljQ%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '22 days' ],
+  operations_remaining: 8
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1580812412/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=yI7JhVE4KJ73%2BYQ%2F0s2Q7rX58%2BJxYIXe2jqv2Nft3my0e28%2FXIN28VZh2V4Cz76kWhP5pTF7mj%2F%2BjFfXs4mQAleRcufEJfl%2FNvx%2B85TCPLwTM1AyXjNBCJ0nWiErufevGy6N8OBQLeZ0cbsqUxmljQ%3D%3D',
+  operations_remaining: 8,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=yI7JhVE4KJ73%2BYQ%2F0s2Q7rX58%2BJxYIXe2jqv2Nft3my0e28%2FXIN28VZh2V4Cz76kWhP5pTF7mj%2F%2BjFfXs4mQAleRcufEJfl%2FNvx%2B85TCPLwTM1AyXjNBCJ0nWiErufevGy6N8OBQLeZ0cbsqUxmljQ%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '22 days' ],
+    operations_remaining: 8
+  },
+  answer: 1580812412
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=CIA8xDpMwhofuggHjVTl22RZm3MahaU8bvRRj9h1QR%2Fk7t29gfM%2BVglfzwqE66%2FGUpTWbWurDLZX%2FxxGvs2pYTNnhjtJwyn3AyFtV%2FZk13Npfp5z1jEZk4quZ6hisl4OolwvIlUroo53D4NkA5KB7g%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '19 minutes' ],
+  operations_remaining: 7
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1578912752/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=CIA8xDpMwhofuggHjVTl22RZm3MahaU8bvRRj9h1QR%2Fk7t29gfM%2BVglfzwqE66%2FGUpTWbWurDLZX%2FxxGvs2pYTNnhjtJwyn3AyFtV%2FZk13Npfp5z1jEZk4quZ6hisl4OolwvIlUroo53D4NkA5KB7g%3D%3D',
+  operations_remaining: 7,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=CIA8xDpMwhofuggHjVTl22RZm3MahaU8bvRRj9h1QR%2Fk7t29gfM%2BVglfzwqE66%2FGUpTWbWurDLZX%2FxxGvs2pYTNnhjtJwyn3AyFtV%2FZk13Npfp5z1jEZk4quZ6hisl4OolwvIlUroo53D4NkA5KB7g%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '19 minutes' ],
+    operations_remaining: 7
+  },
+  answer: 1578912752
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=03N8tnPxTqdPOudXc6ZbzF67INxjo1jP3fqBoDMflapV55Wbl%2FmyG9BL5WOAtH0BiTuIyySGRvcNim8D7dD911xJlCiqeoKlP%2FzRE%2FLePqs%3D',
+  operation: 'multiplication',
+  arguments: [ -607, -98 ],
+  operations_remaining: 6
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/59486/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=03N8tnPxTqdPOudXc6ZbzF67INxjo1jP3fqBoDMflapV55Wbl%2FmyG9BL5WOAtH0BiTuIyySGRvcNim8D7dD911xJlCiqeoKlP%2FzRE%2FLePqs%3D',
+  operations_remaining: 6,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=03N8tnPxTqdPOudXc6ZbzF67INxjo1jP3fqBoDMflapV55Wbl%2FmyG9BL5WOAtH0BiTuIyySGRvcNim8D7dD911xJlCiqeoKlP%2FzRE%2FLePqs%3D',
+    operation: 'multiplication',
+    arguments: [ -607, -98 ],
+    operations_remaining: 6
+  },
+  answer: 59486
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=IWtAS8YUKlavznfW5FYWvaDWkinuSfpFx7pZBMfWMW4S4F%2B0ebb8oHm0syOweyg6ohCIYkT8MSUADAg8pw5NnXzdx39W%2Bj9u0xuI45OLAf4%3D',
+  operation: 'multiplication',
+  arguments: [ -229, -93 ],
+  operations_remaining: 5
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/21297/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=IWtAS8YUKlavznfW5FYWvaDWkinuSfpFx7pZBMfWMW4S4F%2B0ebb8oHm0syOweyg6ohCIYkT8MSUADAg8pw5NnXzdx39W%2Bj9u0xuI45OLAf4%3D',
+  operations_remaining: 5,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=IWtAS8YUKlavznfW5FYWvaDWkinuSfpFx7pZBMfWMW4S4F%2B0ebb8oHm0syOweyg6ohCIYkT8MSUADAg8pw5NnXzdx39W%2Bj9u0xuI45OLAf4%3D',
+    operation: 'multiplication',
+    arguments: [ -229, -93 ],
+    operations_remaining: 5
+  },
+  answer: 21297
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=pNHrmcGdU%2B1nP68YEqkQgJyIh4JmzomuWulS%2FRYD5DnSNI7nGAkiY1sojKfaTJj54YeDdHLdEWVmduVONe%2BuXQ%3D%3D',
+  operation: 'addition',
+  arguments: [ 85, 48, -100 ],
+  operations_remaining: 4
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/33/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=pNHrmcGdU%2B1nP68YEqkQgJyIh4JmzomuWulS%2FRYD5DnSNI7nGAkiY1sojKfaTJj54YeDdHLdEWVmduVONe%2BuXQ%3D%3D',
+  operations_remaining: 4,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=pNHrmcGdU%2B1nP68YEqkQgJyIh4JmzomuWulS%2FRYD5DnSNI7nGAkiY1sojKfaTJj54YeDdHLdEWVmduVONe%2BuXQ%3D%3D',
+    operation: 'addition',
+    arguments: [ 85, 48, -100 ],
+    operations_remaining: 4
+  },
+  answer: 33
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=nfbkAAPGLK%2Fxa7vh89S6oQ03qp4Y7LE7d50O9PZeYM8yhidfhGOjADHTHxEts60OHVM1SkhNvkxXaJTy9ZaSIw%3D%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [
+      0,   1,  1,  2,  3,  5,
+      8,  13, 21, 34, 55, 89,
+    144, 233
+  ],
+  operations_remaining: 3
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/377/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=nfbkAAPGLK%2Fxa7vh89S6oQ03qp4Y7LE7d50O9PZeYM8yhidfhGOjADHTHxEts60OHVM1SkhNvkxXaJTy9ZaSIw%3D%3D',
+  operations_remaining: 3,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=nfbkAAPGLK%2Fxa7vh89S6oQ03qp4Y7LE7d50O9PZeYM8yhidfhGOjADHTHxEts60OHVM1SkhNvkxXaJTy9ZaSIw%3D%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [
+        0,   1,  1,  2,  3,  5,
+        8,  13, 21, 34, 55, 89,
+      144, 233
+    ],
+    operations_remaining: 3
+  },
+  answer: 377
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=f4aaeuPHSrVf5%2B16zBhjt8glKDOGcsIsyLUDhPPXsumvdDtbM90AjkzT8ZvYTPVtUT0TDp3Bk4FdjivglEZ6sBzFuuhRADPoqQzx%2FzbRzG7J7HJx48IjKYjhe19oWphUkApOSLZE5XBwM4qB3seGrw%3D%3D',
+  operation: 'date_addition',
+  arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '6 seconds' ],
+  operations_remaining: 2
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/1578911618/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=f4aaeuPHSrVf5%2B16zBhjt8glKDOGcsIsyLUDhPPXsumvdDtbM90AjkzT8ZvYTPVtUT0TDp3Bk4FdjivglEZ6sBzFuuhRADPoqQzx%2FzbRzG7J7HJx48IjKYjhe19oWphUkApOSLZE5XBwM4qB3seGrw%3D%3D',
+  operations_remaining: 2,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=f4aaeuPHSrVf5%2B16zBhjt8glKDOGcsIsyLUDhPPXsumvdDtbM90AjkzT8ZvYTPVtUT0TDp3Bk4FdjivglEZ6sBzFuuhRADPoqQzx%2FzbRzG7J7HJx48IjKYjhe19oWphUkApOSLZE5XBwM4qB3seGrw%3D%3D',
+    operation: 'date_addition',
+    arguments: [ 'Mon, 13 Jan 2020 05:33:32 -0500', '6 seconds' ],
+    operations_remaining: 2
+  },
+  answer: 1578911618
+}
+response = {
+  next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=PaKpBRqcJPkt4aQPPsK4B321FQnZBUX0Y7hbdt9Lmhx5RMLjjI6mhaHIVJgJUqmzwBTU%2FdN8HMELwWQb5cgqoQ%3D%3D',
+  operation: 'next_fibonacci_number',
+  arguments: [ 0, 1, 1, 2, 3 ],
+  operations_remaining: 1
+}
+request = {
+  url: 'http://codechallenge.meredith.com/code-challenge/5/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=PaKpBRqcJPkt4aQPPsK4B321FQnZBUX0Y7hbdt9Lmhx5RMLjjI6mhaHIVJgJUqmzwBTU%2FdN8HMELwWQb5cgqoQ%3D%3D',
+  operations_remaining: 1,
+  parsed: {
+    next_endpoint: '/code-challenge/{your solution}/?auth=dT%2Fppozhl094XvDwxUArVcXgovsHNvHe6Of%2FY5ioLcw%3D&token=PaKpBRqcJPkt4aQPPsK4B321FQnZBUX0Y7hbdt9Lmhx5RMLjjI6mhaHIVJgJUqmzwBTU%2FdN8HMELwWQb5cgqoQ%3D%3D',
+    operation: 'next_fibonacci_number',
+    arguments: [ 0, 1, 1, 2, 3 ],
+    operations_remaining: 1
+  },
+  answer: 5
+}
+response = {
+  success: 'Thanks for completing the challenge! Make sure to send your code and the secret message below to the person who contacted you.',
+  secret_message: 'Be bold. Together.'
+}
+Answer: {"success":"Thanks for completing the challenge! Make sure to send your code and the secret message below to the person who contacted you.","secret_message":"Be bold. Together."}
